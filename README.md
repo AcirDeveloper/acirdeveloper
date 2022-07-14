@@ -46,6 +46,13 @@ I am a Full Stack Developer Junior.
 ### Awards and Achievements
 </details> 
 
+<details>
+<summary><b>🧰&nbsp;&nbsp;Projects Deploy's</b></summary>
+  <br/>
+  
+- [🗂 Card](https://my-first-project-card.netlify.app/)
+</details>
+
 ## My Stats of GitHub
 [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acirdeveloper&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
