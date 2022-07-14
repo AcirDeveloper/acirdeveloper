@@ -13,7 +13,7 @@
 ```js
 const julio = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS]
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Jest, Docker]
 }
 ```
