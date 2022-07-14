@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julio Sevillano 💻</h1><h4 align="center">🔥 A passionate full stack developer from Ecuador 🇪🇨</h4>
 
+
 - 🌱 I’m currently learning **Frameworks, course**
+<img align='right' src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="450">
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
 - 📫 How to reach me   [📬 Email](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
-<img align='right' src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="450">
 
 <h2><b> ⚽ A little more about me...<br></h2>
 
@@ -47,13 +48,13 @@ I am a Full Stack Developer Junior.
 </details> 
 
 <details>
-<summary><b>🧰&nbsp;&nbsp;Projects Deploy's</b></summary>
+<summary><b>🧑🏿‍⚕️&nbsp;&nbsp;Projects Deploy's</b></summary>
   <br/>
   
 - [🗂 Card](https://my-first-project-card.netlify.app/)
 </details>
 
-## My Stats of GitHub
+## 💯 My Stats of GitHub
 [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acirdeveloper&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
