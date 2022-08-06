@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Frameworks, course**
-<img align='right' src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="450">
+<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="450">
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
@@ -58,19 +58,8 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="30" alt="heroku" 
 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code> 
 <code><img height="30" alt="linux" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </details>
-<details>
-  <summary><b>😎&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-I am a Full Stack Developer Junior.
-
-### comming soon
-### comming soon
-### Awards and Achievements
-</details> 
-
 <details>
 <summary><b>🧑🏿‍⚕️&nbsp;&nbsp;Projects Deploy's</b></summary>
   <br/>
@@ -81,6 +70,18 @@ I am a Full Stack Developer Junior.
 ## 💯 My Stats of GitHub And Languague Layout
 | <a href="https://github.com/AcirDeveloper"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AcirDeveloper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Julio's github stats" /></a> | <a href="https://github.com/AcirDeveloper"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcirDeveloper&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<!--
+<details>
+  <summary><b>😎&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a Full Stack Developer Junior.
+
+### comming soon
+### comming soon
+### Awards and Achievements
+</details>
+-->
 <!--
 #### Top Repositories
 
