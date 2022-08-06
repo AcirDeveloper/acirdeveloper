@@ -63,8 +63,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 <details>
 <summary><b>🧑🏿‍⚕️&nbsp;&nbsp;Projects Deploy's</b></summary>
   <br/>
-  
-- [🗂 Card](https://my-first-project-card.netlify.app/)
+<code><a href="https://my-first-project-card.netlify.app/" target="_blank" text-decoration="none">💳 CARD</a></code>
 </details>
 
 ## 💯 My Stats of GitHub And Languague Layout
