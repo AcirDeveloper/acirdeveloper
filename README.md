@@ -54,10 +54,29 @@ I am a Full Stack Developer Junior.
 - [🗂 Card](https://my-first-project-card.netlify.app/)
 </details>
 
-## 💯 My Stats of GitHub
-[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acirdeveloper&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 💯 My Stats of GitHub And Languague Layout
+| <a href="https://github.com/AcirDeveloper"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AcirDeveloper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Julio's github stats" /></a> | <a href="https://github.com/AcirDeveloper"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcirDeveloper&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 
+<a href="https://github.com/AcirDeveloper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcirDeveloper&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/AcirDeveloper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcirDeveloper&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/acirdeveloper">
+  <img align="right" alt="Julio Sevillano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="#">
+  <img align="right" alt="Julio Sevillano | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 <!--
 **AcirDeveloper/acirdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
