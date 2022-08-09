@@ -18,7 +18,7 @@ const julio = {
   tools: [React, Node, Jest, Docker]
 }
 ```
-## ➕Me 🫠:
+## ➕ Me :
 <details>
 <summary><b>🌍&nbsp;&nbsp;You can &nbsp;find me</b></summary>
   <br/>
