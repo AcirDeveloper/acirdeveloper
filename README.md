@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
-- 📫 How to reach me [📬 Email](https://mail.google.com/mail/u/0/?pli=1#inbox)
+- 👨‍💻 All of my projects are available at **(comming soon)**
 
 <h2><b> ⚽ A little more about me...<br></h2>
 
@@ -57,7 +57,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="30" alt="heroku" 
 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code> 
 <code><img height="30" alt="linux" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+src="./assets/images/linux.png"></code>
 </details>
 <details>
 <summary><b>🧑🏿‍⚕️&nbsp;&nbsp;Projects Deploy's</b></summary>
@@ -74,5 +74,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 <br />
 
 <a href="https://twitter.com/acirdeveloper">
-  <img align="right" alt="Julio Sevillano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Julio Sevillano | Twitter" width="21px" src="./assets/images/gorjeo.png" />
+</a>
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
+  <img align="right" alt="Mail" width="21px" src="./assets/images/gmail.png" />
 </a>
