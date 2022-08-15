@@ -23,11 +23,11 @@ const julio = {
 <summary><b>🌍&nbsp;&nbsp;You can &nbsp;find me</b></summary>
   <br/>
 <p align="left">
-<a href="https://twitter.com/@luffydmonkeypro" target="blank"><img align="center" src="./assets/images/gorjeo.png" alt="Twitter" height="40"/></a>
-<a href="https://linkedin.com/in/julio-sevillano" target="blank"><img align="center" src="./assets/images/linkedin.png" alt="Linkedin" height="40"/></a>
-<a href="https://stackoverflow.com/users/19524087" target="blank"><img align="center" src="./assets/images/stack-overflow.png" alt="Stack Overflow" height="40"/></a>
-<a href="https://www.youtube.com/c/acir developer" target="blank"><img align="center" src="./assets/images/youtube.png" alt="acir developer" height="40" /></a>
-<a href="https://www.hackerrank.com/@acirdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@acirdeveloper" height="40"/></a>
+<a href="https://twitter.com/@luffydmonkeypro" target="_blank"><img align="center" src="./assets/images/gorjeo.png" alt="Twitter" height="40"/></a>
+<a href="https://linkedin.com/in/julio-sevillano" target="_blank"><img align="center" src="./assets/images/linkedin.png" alt="Linkedin" height="40"/></a>
+<a href="https://stackoverflow.com/users/19524087" target="_blank"><img align="center" src="./assets/images/stack-overflow.png" alt="Stack Overflow" height="40"/></a>
+<a href="https://www.youtube.com/c/acir developer" target="_blank"><img align="center" src="./assets/images/youtube.png" alt="acir developer" height="40" /></a>
+<a href="https://www.hackerrank.com/@acirdeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@acirdeveloper" height="40"/></a>
 </p>
 </details>
 
@@ -62,7 +62,7 @@ src="./assets/images/linux.png"></code>
 <details>
 <summary><b>🧑🏿‍⚕️&nbsp;&nbsp;Projects Deploy's</b></summary>
   <br/>
-<code><a href="https://my-first-project-card.netlify.app/" target="blank" text-decoration="none">💳 CARD</a></code>
+<code><a href="https://my-first-project-card.netlify.app/" target="_blank" text-decoration="none">💳 CARD</a></code>
 </details>
 
 ## 💯 My Stats of GitHub And Languague Layout
@@ -73,9 +73,9 @@ src="./assets/images/linux.png"></code>
 <br />
 <br />
 
-<a href="https://twitter.com/acirdeveloper">
+<a href="https://twitter.com/acirdeveloper" target="_blank">
   <img align="right" alt="Julio Sevillano | Twitter" width="21px" src="./assets/images/gorjeo.png" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank">
   <img align="right" alt="Mail" width="21px" src="./assets/images/gmail.png" />
 </a>
