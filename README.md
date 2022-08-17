@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
-- 👨‍💻 All of my projects are available at **(comming soon)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-jvc.netlify.app/)**
 
 <h2><b> ⚽ A little more about me...<br></h2>
 
