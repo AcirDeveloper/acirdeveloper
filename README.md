@@ -26,22 +26,8 @@ const julio = {
 }
 ```
 
-## ➕ Me :
-
-<summary><h2>🌍&nbsp;&nbsp;You can &nbsp;find me</h2></summary>
-
-<p align="left">
-<a href="https://twitter.com/@luffydmonkeypro" target="_blank"><img align="center" src="./assets/images/gorjeo.png" alt="Twitter" height="40"/></a>
-<a href="https://linkedin.com/in/julio-sevillano" target="_blank"><img align="center" src="./assets/images/linkedin.png" alt="Linkedin" height="40"/></a>
-<a href="https://stackoverflow.com/users/19524087" target="_blank"><img align="center" src="./assets/images/stack-overflow.png" alt="Stack Overflow" height="40"/></a>
-<a href="https://www.youtube.com/c/acir developer" target="_blank"><img align="center" src="./assets/images/youtube.png" alt="acir developer" height="40" /></a>
-<a href="https://www.hackerrank.com/@acirdeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@acirdeveloper" height="40"/></a>
-</p>
-
-
-
-<summary><h2>🧰&nbsp;&nbsp;Languages&nbsp;And Tools</h2></summary>
-	<hr/>
+## ➕&nbsp;&nbsp;Languages&nbsp;And Tools 🧰:
+<div style="gap: 20px;">
 <code><img height="30" alt="html5" 
 src="./assets/images/html-5.png"></code>
 <code><img height="30" alt="css3" 
@@ -64,7 +50,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code> 
 <code><img height="30" alt="linux" 
 src="./assets/images/linux.png"></code>
-
+	</div>
 
 	
 ## Proyectos
