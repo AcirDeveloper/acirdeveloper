@@ -12,7 +12,7 @@
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
   <img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
 
-- 💬 Estoy capacitado/a para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
+- 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
 
 - 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi **[Portfolio](https://portafolio-acirdev.netlify.app)**
 
