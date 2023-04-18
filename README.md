@@ -9,20 +9,20 @@
 
 
 
-- 🌱 I’m currently learning **Frameworks, course**
+- 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
   <img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+- 💬 Estoy capacitado/a para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-jvc.netlify.app/)**
+- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi **[Portfolio](https://portafolio-acirdev.netlify.app)**
 
-<h2><b> ⚽ A little more about me...<br></h2>
+<h2><b> ⚽ Mis habilidades clave son...<br></h2>
 
 ```js
 const julio = {
 	pronouns: 'he' | 'him',
-	code: [Javascript, Typescript, HTML, CSS],
-	tools: [React, Node, Jest, Docker],
+	code: [Javascript, Java, Python, HTML, CSS],
+	tools: [React, Spring, Django, Docker],
 }
 ```
 
@@ -57,7 +57,7 @@ src="./assets/images/linux.png"></code>
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Pokedex</h3>
 <div align="center">
 <a href="https://github.com/AcirDeveloper" target="_blank"><img src="http://example.com" width="400" alt="Pokedex"></a>
 <p>
