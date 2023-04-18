@@ -7,26 +7,25 @@
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/acirdev?logo=freeCodeCamp)
 [![GitHub followers](https://img.shields.io/github/followers/AcirDeveloper.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AcirDeveloper)
 
-
-
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
   <img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
 
 - 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
 
-- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi **[Portfolio](https://portafolio-acirdev.netlify.app)**
+- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-acirdev.netlify.app)
 
 <h2><b> ⚽ Mis habilidades clave son...<br></h2>
 
 ```js
 const julio = {
-	pronouns: 'he' | 'him',
-	code: [Javascript, Java, Python, HTML, CSS],
-	tools: [React, Spring, Django, Docker],
-}
+  pronouns: "he" | "him",
+  code: [Javascript, Java, Python, HTML, CSS],
+  tools: [React, Spring, Django, Docker],
+};
 ```
 
 ## ➕&nbsp;&nbsp;Languages&nbsp;And Tools 🧰:
+
 <div style="gap: 20px;">
 <code><img height="30" alt="html5" 
 src="./assets/images/html-5.png"></code>
@@ -52,8 +51,8 @@ src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 src="./assets/images/linux.png"></code>
 	</div>
 
-	
 ## Proyectos
+
 <table>
 <tr>
 <td width="50%">
