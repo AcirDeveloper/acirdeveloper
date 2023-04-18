@@ -15,12 +15,13 @@
 	 <a href="https://www.linkedin.com/in/julio-sevillano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href = "mailto:acirdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://twitter.com/acirdeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  	<a href="https://www.instagram.com/acirdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+  	<a href="https://www.instagram.com/acirdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<!--
   	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
-  
+  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
+  	-->
 </div>
 
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
@@ -47,7 +48,7 @@ const Julio = {
 <td width="50%">
 <h3 align="center">Pokedex</h3>
 <div align="center">
-<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="400" alt="Pokedex"></a>
+<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="300" alt="Pokedex"></a>
 <p>
 <a href="https://github.com/AcirDeveloper" target="_blank">
 <img src="=for-the-badge&logo=github&logoColor=black">
@@ -65,7 +66,7 @@ const Julio = {
                <br>
 <h3 align="center">Eccommerce</h3>
 <div align="center">                                       
-<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="400" alt="Eccommerce"></a>
+<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="300" alt="Eccommerce"></a>
 <br>
 <p>
 <a href="https://github.com/AcirDeveloper" target="_blank">
@@ -98,7 +99,6 @@ const Julio = {
   <img align="center" alt="Acir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Acir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Acir-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Acir-pic" height="50" style="border-radius:50%;" src="./assets/images/1.png">
-	
+  <img align="right" alt="Acir-pic" height="50" style="border-radius:50%;" src="./assets/images/1.png">	
 </div>
 </body>
