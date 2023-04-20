@@ -9,7 +9,10 @@
 
 <h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=700&color=26F766&lines=🔥Me+apasiona+el+desarrollo+de+aplicaciones+web+y+móviles🕹️." alt="Typing SVG" /></a></h4>
 	
-<img src="./assets/images/banner.png">
+<div align="center">
+	<img src="./assets/images/GitHubBanner.png">
+</div>
+
 	
 <div>
 	 <a href="https://www.linkedin.com/in/julio-sevillano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
