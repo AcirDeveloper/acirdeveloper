@@ -10,7 +10,7 @@
 <h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=700&color=26F766&lines=🔥Me+apasiona+el+desarrollo+de+aplicaciones+web+y+móviles🕹️." alt="Typing SVG" /></a></h4>
 	
 <div align="center">
-	<img src="./assets/images/GitHubBanner.png">
+	<img src="./assets/images/GitHubBanner2.png">
 </div>
 
 	
