@@ -26,14 +26,7 @@
   	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
   	-->
 </div>
-
-	
-<div>
-	<div>
-		<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
-	</div>
-	<br>
-<div align='left'>
+		<img align="right" src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" >
 	
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
 		
@@ -50,8 +43,7 @@ const Julio = {
   tools: [React, Spring, Django, Docker]
 }
 ```	
-</div>
-</div>
+
 	
 ## **Proyectos**
 
