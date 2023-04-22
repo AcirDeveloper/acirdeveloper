@@ -26,9 +26,9 @@
   	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
   	-->
 </div>
-
+	<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
-  <img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
+  
 
 - 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
 
