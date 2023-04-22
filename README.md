@@ -27,6 +27,7 @@
   	-->
 </div>
 	<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
+	<br><br>
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
   
 
