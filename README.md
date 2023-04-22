@@ -26,7 +26,8 @@
   	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
   	-->
 </div>
-		<img align="right" src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" >
+		<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450px">
+	
 	
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
 		
