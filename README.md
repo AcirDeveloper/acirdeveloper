@@ -26,13 +26,19 @@
   	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
   	-->
 </div>
-	<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
-	<br><br>
+
+	
+<div>
+	<div>
+		<img align='right' src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="350">
+	</div>
+	<br>
+<div align='left'>
+	
 - 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
-  
-
-- 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas
-
+		
+- 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas.
+		
 - 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi <br> <a href="https://portafolio-acirdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
 
 <h2><b> ⚽ Mis habilidades clave son...<br></h2>
@@ -43,8 +49,10 @@ const Julio = {
   code: [Javascript, Java, Python, HTML, CSS],
   tools: [React, Spring, Django, Docker]
 }
-```
-
+```	
+</div>
+</div>
+	
 ## **Proyectos**
 
 <table>
