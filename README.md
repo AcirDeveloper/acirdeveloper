@@ -53,7 +53,7 @@ const Julio = {
 <td width="50%">
 <h3 align="center">Pokedex</h3>
 <div align="center">
-<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="300" alt="Pokedex"></a>
+<a href="https://github.com/AcirDeveloper" target="_blank" style="border-radius: 10px"><img src="./assets/images/1.png" width="300" alt="Pokedex" ></a>
 <p>
 <a href="https://github.com/AcirDeveloper" target="_blank">
 <img src="=for-the-badge&logo=github&logoColor=black">
@@ -62,14 +62,18 @@ const Julio = {
 <img src="#">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>
+- Nombre: PokeSearch
+- descripción: Buscador de información de Pokémon, incluyendo estadísticas, habilidades y movimientos.
+- Características: Búsqueda por nombre o número de Pokédex, información detallada de cada Pokémon, integración con Google Maps para mostrar ubicaciones de captura.
+</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Eccommerce</h3>
+<h3 align="center">E-ccommerce</h3>
 <div align="center">                                       
 <a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="300" alt="Eccommerce"></a>
 <br>
@@ -81,7 +85,12 @@ const Julio = {
 <img src="=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+
+<ul>	
+<li> Nombre: TechMart </li>
+- Descripción: Plataforma de venta de productos electrónicos.
+- Características: Búsqueda y filtro de productos por categoría, marca y precio, carrito de compras, registro de usuario, integración con pasarelas de pago, seguimiento de pedidos y envíos.
+	</ul>
 </div>                                                             
 </table>                                                                                 
 </div>
