@@ -30,7 +30,7 @@
 		
 - 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas.
 		
-- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi <br> <a href="https://portafolio-acirdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi <br> <a href="https://portafolio-v1-acir.netlify.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
 
 <h2><b> ⚽ Mis habilidades clave son...<br></h2>
 
