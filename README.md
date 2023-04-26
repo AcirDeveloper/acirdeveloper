@@ -4,7 +4,11 @@
     <link rel="stylesheet" type="text/css" href="./assets/style.css">
 </head>
 <body>
+<div align="center">
 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&width=100%&color=gradient)
+ 
+</div>
   <h1 align="center" style="font-size: 28px; letter-spacing: 0.1em;">Hola👋, Soy Julio Sevillano 💻</h1>
 
 <h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=700&color=26F766&lines=🔥Me+apasiona+el+desarrollo+de+aplicaciones+web+y+móviles🕹️." alt="Typing SVG" /></a></h4>
@@ -45,57 +49,6 @@ const Julio = {
 }
 ```	
 
-	
-## **Proyectos**
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Pokedex</h3>
-<div align="center">
-<a href="https://github.com/AcirDeveloper" target="_blank" style="border-radius: 10px"><img src="./assets/images/1.png" width="300" alt="Pokedex" ></a>
-<p>
-<a href="https://github.com/AcirDeveloper" target="_blank">
-<img src="=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="#">
-</a>
-</p>
-<p>
-- Nombre: PokeSearch
-- descripción: Buscador de información de Pokémon, incluyendo estadísticas, habilidades y movimientos.
-- Características: Búsqueda por nombre o número de Pokédex, información detallada de cada Pokémon, integración con Google Maps para mostrar ubicaciones de captura.
-</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">E-ccommerce</h3>
-<div align="center">                                       
-<a href="https://github.com/AcirDeveloper" target="_blank"><img src="./assets/images/1.png" width="300" alt="Eccommerce"></a>
-<br>
-<p>
-<a href="https://github.com/AcirDeveloper" target="_blank">
-<img src="=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="=for-the-badge&color=3fFD7f">
-</a>
-</p>
-
-<ul>	
-<li> Nombre: TechMart </li>
-- Descripción: Plataforma de venta de productos electrónicos.
-- Características: Búsqueda y filtro de productos por categoría, marca y precio, carrito de compras, registro de usuario, integración con pasarelas de pago, seguimiento de pedidos y envíos.
-	</ul>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics 💯
 
 <p align="center">
@@ -115,4 +68,7 @@ const Julio = {
   <img align="center" alt="Acir-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Acir-pic" height="50" style="border-radius:50%;" src="./assets/images/1.png">	
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
 </body>
