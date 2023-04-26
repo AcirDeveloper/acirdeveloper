@@ -6,8 +6,8 @@
 <body>
 <div align="center">
 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
 </div>
   <h1 align="center" style="font-size: 28px; letter-spacing: 0.1em;">Hola👋, Soy Julio Sevillano 💻</h1>
 
@@ -17,18 +17,11 @@
 	<img src="./assets/images/GitHubBanner2.png">
 </div>
 
-	
 <div>
 	 <a href="https://www.linkedin.com/in/julio-sevillano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href = "mailto:acirdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://twitter.com/acirdeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href="https://www.instagram.com/acirdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<!--
-  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
-  	-->
 </div>
 		<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450px">
 	
@@ -43,9 +36,9 @@
 
 ```js
 const Julio = {
-  pronouns: 'he' | 'him',
-  code: [Javascript, Java, Python, HTML, CSS],
-  tools: [React, Spring, Django, Docker]
+    pronouns: 'he' | 'him',
+    code: [Javascript, Java, Python, HTML, CSS],
+    tools: [React, Spring, Django, Docker]
 }
 ```
 
