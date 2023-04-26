@@ -6,12 +6,12 @@
 <body>
 <div align="center">
 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&width=100%&color=gradient)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
 </div>
   <h1 align="center" style="font-size: 28px; letter-spacing: 0.1em;">Hola👋, Soy Julio Sevillano 💻</h1>
 
-<h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=700&color=26F766&lines=🔥Me+apasiona+el+desarrollo+de+aplicaciones+web+y+móviles🕹️." alt="Typing SVG" /></a></h4>
+<h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=🔥La+mejor+manera+de+aprender+a+programar+es+haciéndolo+-+Richard+Feynman🕹️." alt="Typing SVG" /></a></h4>
 	
 <div align="center">
 	<img src="./assets/images/GitHubBanner2.png">
@@ -48,8 +48,12 @@ const Julio = {
   tools: [React, Spring, Django, Docker]
 }
 ```	
+<details close="true">
+<summary><b> ⚙️ &nbsp;GitHub Analytics 💯 </b></summary>
 
-### ⚙️ &nbsp;GitHub Analytics 💯
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center">
 <a href="https://github.com/AcirDeveloper">
@@ -68,6 +72,7 @@ const Julio = {
   <img align="center" alt="Acir-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Acir-pic" height="50" style="border-radius:50%;" src="./assets/images/1.png">	
 </div>
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
