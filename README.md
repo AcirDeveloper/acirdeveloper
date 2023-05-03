@@ -41,7 +41,7 @@ const Julio = {
     tools: [React, Spring, Django, Docker]
 }
 ```
-
+gd
 ### Tech & Tools Preference
 
 <p align="left">
