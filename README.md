@@ -23,22 +23,25 @@
 	<a href="https://twitter.com/acirdeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href="https://www.instagram.com/acirdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250px">
+
+<div>
+	<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250px">
 	
 	
-- 🌱 Actualmente estoy realizando estudios en Frameworks y ampliando mis conocimientos en este campo.
+- 💻  Experiencia sólida en tecnologías como JavaScript, HTML y CSS, así como en frameworks como React. Capaz de crear sitios web dinámicos, responsivos y atractivos que brinden una experiencia óptima al usuario.
 		
-- 💬 Estoy capacitado para brindar información y asesoramiento sobre tecnologías web como JavaScript, HTML, CSS y React. No dudes en contactarme si necesitas ayuda en alguno de estos temas.
+- 📱 Habilidades en el desarrollo de aplicaciones móviles, he explorado el mundo del desarrollo móvil con enfoque en la plataforma Android.
 		
-- 👨‍💻 Para conocer más sobre mis proyectos profesionales, te invito a visitar mi <br> <a href="https://portafolio-v1-acir.netlify.app" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+- 👨‍💻 Para conocer más sobre mis proyectos personales, te invito a visitar mi <br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+</div>
 
 <h2><b> ⚽ Mis habilidades clave son...<br></h2>
 
 ```js
 const Julio = {
     pronouns: 'he' | 'him',
-    code: [Javascript, Java, Python, HTML, CSS],
-    tools: [React, Spring, Django, Docker]
+    code: [Javascript, Kotlin, Python, HTML, CSS],
+    tools: [VSCode, Android Studio, Postman, Docker]
 }
 ```
 
